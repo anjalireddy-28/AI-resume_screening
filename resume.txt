@@ -1,0 +1,31 @@
+John Doe
+Software Engineer | Python Developer | 5+ Years Experience
+
+PROFESSIONAL SUMMARY
+Results-driven Software Engineer with 5+ years of experience in developing scalable web applications using Python, Django, and Flask. Expertise in machine learning, data analysis, and cloud technologies. Proven track record of delivering high-performance solutions in fast-paced environments.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL, Java
+Frameworks: Django, Flask, React, Node.js
+Tools: Docker, AWS, Git, Jenkins
+ML Libraries: scikit-learn, TensorFlow, Pandas, NumPy
+
+WORK EXPERIENCE
+Senior Python Developer | TechCorp Inc. | 2020 - Present
+- Developed RESTful APIs using Django REST Framework serving 10K+ daily requests
+- Implemented machine learning models for recommendation systems using scikit-learn
+- Optimized database queries reducing response time by 40%
+- Led a team of 4 developers in agile sprints
+
+Python Developer | DataSolutions | 2018 - 2020
+- Built data processing pipelines with Pandas and NumPy
+- Deployed applications on AWS EC2 and S3
+- Automated CI/CD pipelines using Jenkins
+
+EDUCATION
+B.S. Computer Science | University of Technology | 2018
+
+PROJECTS
+- Resume Screening Tool: Built AI-powered resume matcher using TF-IDF and cosine similarity
+- E-commerce Platform: Full-stack app with Django backend and React frontend
+

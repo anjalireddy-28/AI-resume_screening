@@ -1,0 +1,36 @@
+Job Title: Senior Python Developer
+
+Job Description:
+
+We are looking for an experienced Senior Python Developer to join our innovative tech team. The ideal candidate will have strong experience in backend development, machine learning, and cloud infrastructure.
+
+Key Responsibilities:
+- Design and develop scalable RESTful APIs using Python and Django/Flask frameworks
+- Implement machine learning models for data analysis and recommendation systems
+- Optimize application performance and database queries
+- Deploy applications to AWS cloud infrastructure (EC2, S3, Lambda)
+- Collaborate with frontend developers and DevOps team
+- Participate in agile development sprints and code reviews
+
+Required Skills:
+- 5+ years of Python development experience
+- Expertise in Django REST Framework or Flask
+- Strong experience with scikit-learn, Pandas, and NumPy for ML/data analysis
+- Proficiency in SQL and database optimization
+- Experience with Docker containerization and CI/CD pipelines (Jenkins/GitHub Actions)
+- Familiarity with AWS cloud services
+- Excellent problem-solving skills and attention to detail
+
+Preferred Skills:
+- React.js or JavaScript framework experience
+- TensorFlow/PyTorch for deep learning
+- Experience with microservices architecture
+
+What we offer:
+- Competitive salary and benefits
+- Flexible remote work options
+- Professional development opportunities
+- Collaborative team environment
+
+Apply if you are passionate about building intelligent systems and have experience with Python backend development and machine learning!
+
